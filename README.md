@@ -1,2 +1,1 @@
 # LunaList
-app that functions as an all-in-one personal organizer, combining a to-do list, reminders, diary, and memo features. Users can input tasks for each day, set reminders to stay on track, and organize their daily activities. Alongside this, the app offers a diary section where users can jot down personal thoughts or experiences, and a memo feature for quick notes. With a clean, user-friendly interface, the app helps users manage their schedules, stay productive, and reflect on their day—all in one place.
